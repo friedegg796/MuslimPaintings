@@ -148,6 +148,17 @@ baroque.png:
 
 Michael in the Public Domain, Pangkor Island Mosque
 
+pool.png
+
+Mostafameraji in the Public Domain, Mosque Soleyman
+
+courbet.png
+
+Addjimedu in the Public Domain, ITAMAPAKO CENTRAL MOSQUE
+
+sunset.png
+
+Houss 2020 in the Public Domain, AL NOUR MOSQUE
 
 
 

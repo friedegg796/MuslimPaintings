@@ -6,7 +6,7 @@ _This image has an affiliate link, aka I can get a commission (MONEY for me at n
 
 # MuslimPaintings
 
-A resourcepack that makes the paitnings in Minecraft more Islamic
+A resourcepack that makes the paitnings in Minecraft more Islamic, mostly making them feature mosques.
 
 
 ## Questions/Suggestions/Problems
@@ -160,6 +160,28 @@ sunset.png
 
 Houss 2020 in the Public Domain, AL NOUR MOSQUE
 
+kebab.png
+Houss 2020 in the Public Domain, Mosquée Sidi Abdelkader Gabés 
+
+aztec.png
+Houss 2020 in the Public Domain, Mosquée Hadher Bach
+
+alban.png:
+Emin Tarahija in the Public Domain, Ensar džamija
+
+aztec2.png:
+
+Houss 2020 in the Public Domain, Mosquée TAQUA ALLAH- Tozeur
+
+bomb.png:
+Houss 2020 in the Public Domain, Mosquée Hadher Bach interior
+
+plant.png:
+Houss 2020 in the Public Domain, Mosquée Al Jadid - Oualegh Djerba
+
+wasteland.png:
+
+Houss 2020 in the Public Domain, Mosquée Al Rahmen bookshelf - Midoun
 
 
 For finding.png and pigscene.png: 

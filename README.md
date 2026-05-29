@@ -90,7 +90,11 @@ SerChevalerie in the Public Domain, Masjid-e-Noor, Zuarinagar
 
 pointer.png:
 
-Dokumentasi Cirebon, Masjid Agung Sumber Cirebon
+Dokumentasi Cirebon in the Public Domain, Masjid Agung Sumber Cirebon
+
+donkey_kong.png:
+
+TheHadiRahim in the Public Domain, Wide shot of the Green Dome at The Prophet (Sallahu Alayi Wassalam)'s Mosque (Al Masjid-e-Nabawi)
 
 
 

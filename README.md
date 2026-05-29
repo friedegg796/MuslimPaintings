@@ -84,6 +84,14 @@ sea.png:
 
 Ettounsi21 in the Public Domain, IBN ELABBAS Mosque Wudu room
 
+unpacked.png:
+
+SerChevalerie in the Public Domain, Masjid-e-Noor, Zuarinagar
+
+pointer.png:
+
+Dokumentasi Cirebon, Masjid Agung Sumber Cirebon
+
 
 
 For finding.png and pigscene.png: 

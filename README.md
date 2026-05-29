@@ -140,6 +140,13 @@ match.png:
 
 Houss 2020 in the Public Domain, Mosquée TAQUA ALLAH
 
+void.png
+
+Addjimedu in the Public Domain, ILISAN CENTRAL MOSQUE
+
+baroque.png:
+
+Michael in the Public Domain, Pangkor Island Mosque
 
 
 

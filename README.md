@@ -124,7 +124,13 @@ lowmist.png
 
 Ettounsi21 in the Public Domain, OULED HLEL Mosque
 
+changing.png
 
+Ettounsi21 in the Public Domain, KHALED IBN EL WALID Mosque
+
+passage.png
+
+Houss 2020 in the Public Domain, Al-Rahma Mosque (Sidi Ali Ben Aoun)
 
 
 

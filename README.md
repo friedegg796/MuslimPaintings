@@ -63,12 +63,27 @@ Erik Albers in the Public Domain, Dome of Jamh Mosque, Yazd, Iran
 backyard.png:
 Rayhana Alhour in the Public Domain, مسجد قبة الصخرة في القدس
 
-bust.png
+bust.png:
 Plugwash~commonswiki in the Public Domain, Banda Aceh's Grand Mosque, Indonesia
 
-cavebird.png
+cavebird.png:
 
 Grenavitar in the Public Domain, Central London Mosque in London
+
+tides.png and pairie_ride:
+Houss 2020 in the Public Domain, Great Mosque of Khniss
+
+wanderer.png:
+Ettounsi21 in the Public Domain, El RAHMEN Mosque - Djerba
+
+sunflowers.png:
+
+Deepak-nsk in the Public Domain, Kapitan Keling Mosque at night
+
+sea.png:
+
+Ettounsi21 in the Public Domain, IBN ELABBAS Mosque Wudu room
+
 
 
 For finding.png and pigscene.png: 

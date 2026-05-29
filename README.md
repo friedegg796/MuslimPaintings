@@ -63,6 +63,14 @@ Erik Albers in the Public Domain, Dome of Jamh Mosque, Yazd, Iran
 backyard.png:
 Rayhana Alhour in the Public Domain, مسجد قبة الصخرة في القدس
 
+bust.png
+Plugwash~commonswiki in the Public Domain, Banda Aceh's Grand Mosque, Indonesia
+
+cavebird.png
+
+Ceddyfresse in the Public Domain, Fazl Mosque in London
+
+
 For finding.png and pigscene.png: 
 Public Domain
 

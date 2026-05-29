@@ -116,6 +116,11 @@ endboss.png:
 
 Houss 2020 in the Public Domain, AL TAWFIQ MOSQUE (Monastir)
 
+graham.png:
+
+Houss 2020 in the Public Domain, AL IKHLAS MOSQUE
+
+
 
 
 

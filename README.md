@@ -108,6 +108,11 @@ bouqet.png:
 
 Ettounsi21 in the Public Domain, ELKATEB Mosqie - Mahboubin Djerba
 
+cotan.png:
+
+Houss 2020 in the Public Domain, Mosquée Ibn Abass-Maammer - Djerba Midoun
+
+
 
 
 For finding.png and pigscene.png: 

@@ -96,13 +96,17 @@ donkey_kong.png:
 
 TheHadiRahim in the Public Domain, Wide shot of the Green Dome at The Prophet (Sallahu Alayi Wassalam)'s Mosque (Al Masjid-e-Nabawi)
 
-fern.png
+fern.png:
 
 Houss 2020 in the Public Domain, Mosquée CASTILIA
 
-orb.png
+orb.png:
 
 Houss 2020 in the Public Domain, Mosquée EL FATH - Tozeur
+
+bouqet.png:
+
+Ettounsi21 in the Public Domain, ELKATEB Mosqie - Mahboubin Djerba
 
 
 

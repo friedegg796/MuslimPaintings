@@ -112,6 +112,10 @@ cotan.png:
 
 Houss 2020 in the Public Domain, Mosquée Ibn Abass-Maammer - Djerba Midoun
 
+endboss.png:
+
+Houss 2020 in the Public Domain, AL TAWFIQ MOSQUE (Monastir)
+
 
 
 

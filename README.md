@@ -132,6 +132,10 @@ passage.png
 
 Houss 2020 in the Public Domain, Al-Rahma Mosque (Sidi Ali Ben Aoun)
 
+fighters.png:
+
+Mirlim in the Public Domain, Masjid Kampung Bersia Lama
+
 
 
 

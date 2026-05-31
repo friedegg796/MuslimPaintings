@@ -1,10 +1,10 @@
 {
     "pack": {
-        "pack_format": 14,
+        "pack_format": 1,
         "description": "Islamic paintings!",
         "supported_formats":
         {
-         "min_inclusive": 15,
+         "min_inclusive": 1,
          "max_inclusive": 88
         }
     }

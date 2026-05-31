@@ -183,6 +183,10 @@ wasteland.png:
 
 Houss 2020 in the Public Domain, Mosquée Al Rahmen bookshelf - Midoun
 
+dennis.png:
+
+DayakSibiriak in the Public Domain, Keramat Kuno mosque, Kampung Kajanan, Singaraja, Bali (estbl. c. 1645).
+
 
 For finding.png and pigscene.png: 
 Public Domain
@@ -190,5 +194,7 @@ Public Domain
 #### Disclaimer
 
 I do NOT CONDONE the credited, I only took what was benefical from them; I am not responsible for what they do, but I do appreciate the benefical things they brought, May Allah guide us and them and grant us all Jannah tul Firdaws al `Ala.
+
+And although some images may be taken from the Public Domain, their modified versions are not in the Public Domain.
 
 NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.

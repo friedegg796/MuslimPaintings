@@ -31,6 +31,12 @@ Or look for the named zip file in [releases](https://github.com/friedegg796/Musl
 ## Credits
 
 ### Textures
+
+pack.png:
+
+
+omar8000@gmail.com gave permission 
+
 In /assets/minecraft/textures/painting/
 
 For burning_skull.png:

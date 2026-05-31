@@ -9,7 +9,6 @@ _This image has an affiliate link, aka I can get a commission (MONEY for me at n
 A resourcepack that replaces the current Minecraft paintings with more Islamic ones (Like Mosques).
 
 
-
 ## Questions/Suggestions/Problems
 
 Make an [issue](https://github.com/friedegg796/MuslimPaintings/issues), I'll check it inshaAllah.
@@ -30,9 +29,8 @@ Or look for the named zip file in [releases](https://github.com/friedegg796/Musl
 
 
 ## Credits
-
-### Textures
-
+<details>
+<summary>Textures</summary>
 pack.png:
 
 
@@ -198,6 +196,10 @@ DayakSibiriak in the Public Domain, Keramat Kuno mosque, Kampung Kajanan, Singar
 For finding.png and pigscene.png: 
 Public Domain
 
+
+</details>
+
+
 #### Disclaimer
 
 I do NOT CONDONE the credited, I only took what was benefical from them; I am not responsible for what they do, but I do appreciate the benefical things they brought, May Allah guide us and them and grant us all Jannah tul Firdaws al `Ala.
@@ -205,3 +207,4 @@ I do NOT CONDONE the credited, I only took what was benefical from them; I am no
 And although some images may be taken from the Public Domain, their modified versions are not in the Public Domain.
 
 NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
+

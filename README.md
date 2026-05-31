@@ -11,11 +11,11 @@ A resourcepack that makes the paitnings in Minecraft more Islamic, mostly making
 
 ## Questions/Suggestions/Problems
 
-Make an [issue](https://github.com/friedegg796/Muslimcraft-Lite/issues), I'll check it inshaAllah.
+Make an [issue](https://github.com/friedegg796/MuslimPaintings/issues), I'll check it inshaAllah.
 
 
 ### Could I put your Resourcepack into MY modpack?
-Read the [License](https://github.com/friedegg796/Muslimcraft-Lite?tab=License-1-ov-file#)
+Read the [License](https://github.com/friedegg796/MuslimPaintings?tab=License-1-ov-file)
 
 If on Modrinth, read their TOS as well.
 
@@ -23,9 +23,9 @@ If on Modrinth, read their TOS as well.
 
 On Modrinth you install the zip and then put it in your Resourcepacks folder of your Minecraft Instance.
 
-On [Github](https://github.com/friedegg796/Muslimcraft-Lite?tab=readme-ov-file) you install the zip, unzip it, and then do the above (Unreleased versions).
+On [Github](https://github.com/friedegg796/MuslimPaintings) you install the zip, unzip it, and then do the above (Unreleased versions).
 
-Or look for the named zip file in [releases](https://github.com/friedegg796/Muslimcraft-Lite/releases).
+Or look for the named zip file in [releases](https://github.com/friedegg796/MuslimPaintings/releases).
 
 
 ## Credits

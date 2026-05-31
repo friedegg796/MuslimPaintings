@@ -6,7 +6,8 @@ _This image has an affiliate link, aka I can get a commission (MONEY for me at n
 
 # MuslimPaintings
 
-A resourcepack that makes the paitnings in Minecraft more Islamic, mostly making them feature mosques.
+A resourcepack that replaces the current Minecraft paintings with more Islamic ones (Like Mosques).
+
 
 
 ## Questions/Suggestions/Problems
